@@ -1,0 +1,130 @@
+.header{
+    height: 30px;
+    width: auto;
+    background-color: mistyrose;
+    padding: 30px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+    font-family: monospace;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid darkgray;
+    margin: 30px;
+}
+
+
+.text1{
+    padding: 10px;
+    height: 70px;
+    text-align: center;
+    width: auto;
+    background-color: rgb(211, 240, 223);
+    font-family: monospace;
+    color: rgb(66, 66, 66);
+    margin: auto;
+}
+
+.text2{
+    float: left;
+    padding: 10px;
+    height: 170px;
+    width: 400px;
+    background-color: aliceblue;
+    font-family: monospace;
+    font-size: 15px;
+
+}
+
+.title{
+
+  font-size: 30px; 
+  font-family: monospace;
+}
+
+.sushi{
+
+    height: 200px;
+    width: auto;
+}
+#image{
+    height: 200px;
+    width: auto;
+}
+
+.volleyball{
+    height: 200px;
+    width: auto;
+}
+
+.pencil{
+    padding: 10px;
+    margin: 10px;
+    float: none;
+    height: 170px;
+    width: auto;
+    background-color: floralwhite;
+}
+
+.text3{
+    float: left;
+    padding: 10px;
+    height: 50px;
+    width: auto;
+    background-color: rgb(211, 231, 211);
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.basketball{
+    float: left;
+    height: 170px;
+    width: auto;
+}
+
+.animals{
+    padding: 10px;
+    font-family: monospace;
+    font-size: 15px;
+    float: left;
+}
+
+.food{
+    padding: 10px;
+    float: left;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.sport{
+    padding: 10px;
+    float: left;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.music{
+    height: 170px;
+    width: auto;
+    float: none;
+}
+
+.spotify{
+    height: 170px;
+    width: auto;
+    float: none;
+}
